@@ -20,14 +20,12 @@ Este projeto consiste em um aplicativo de pedido de café desenvolvido para disp
 
 ## Capturas de Tela 📷
 ![Tela Principal](screenshots/page.png)
-
 <br>*Figura 1: Tela principal do aplicativo mostrando o menu de cafés.*</br>
 
 ![Personalização do Pedido](screenshots/home.png)
 <br>*Figura 2: Tela de personalização do pedido, onde os usuários podem escolher suas preferências.*</br>
 
 ![Carrinho de Compras](screenshots/detalhes.png)
-
 <br>*Figura 3: Tela do carrinho de compras exibindo um resumo dos itens selecionados.*</br>
 ---
 
