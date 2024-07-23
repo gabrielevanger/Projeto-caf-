@@ -19,7 +19,7 @@ Este projeto consiste em um aplicativo de pedido de café desenvolvido para disp
 ---
 
 ## Capturas de Tela 📷
-<div style="flex">
+<div align="flex">
 ![Tela Principal](screenshots/page.png)
 
 *Figura 1: Tela principal do aplicativo mostrando o menu de cafés.*
