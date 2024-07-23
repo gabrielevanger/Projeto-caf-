@@ -19,8 +19,9 @@ Este projeto consiste em um aplicativo de pedido de café desenvolvido para disp
 ---
 
 ## Capturas de Tela 📷
-
+<div style="flex">
 ![Tela Principal](screenshots/page.png)
+
 *Figura 1: Tela principal do aplicativo mostrando o menu de cafés.*
 
 ![Personalização do Pedido](screenshots/home.png)
@@ -28,7 +29,7 @@ Este projeto consiste em um aplicativo de pedido de café desenvolvido para disp
 
 ![Carrinho de Compras](screenshots/detalhes.png)
 *Figura 3: Tela do carrinho de compras exibindo um resumo dos itens selecionados.*
-
+</div>
 ---
 
 ## Instalação ⚙️
