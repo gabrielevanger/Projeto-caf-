@@ -70,7 +70,7 @@ Contribuições são bem-vindas! Se você quiser melhorar este projeto, siga est
 
 **Gabriel Evangelista**
 
-- GitHub: [@seu-usuario](https://github.com/gabrielevanger)
+- GitHub: [@gabrielevanger](https://github.com/gabrielevanger)
 
 ---
 
