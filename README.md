@@ -87,3 +87,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ---
 
 Este é um exemplo básico de como um README para um projeto de pedido de café em Android/Kotlin pode ser estruturado. Certifique-se de personalizar as seções conforme necessário para o seu projeto específico.
+
+![App de Cafeteria](https://github.com/user-attachments/assets/6e018002-fdf0-4e0d-ae63-f5b852c67783)
