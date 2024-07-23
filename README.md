@@ -79,9 +79,3 @@ Contribuições são bem-vindas! Se você quiser melhorar este projeto, siga est
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
-## Agradecimentos 🙏
-
-- Agradeça a qualquer pessoa ou recurso que tenha sido útil para o projeto.
-
----
